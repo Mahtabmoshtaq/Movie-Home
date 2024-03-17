@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+}
+.navbar {
+  background-color: lightcyan;
+  padding: 20px;
+}
+.nav-list {
+  margin-top: 0%;
+  margin-left: 40%;
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+}
+.nav-list li a {
+  text-decoration: none;
+  color: darkslategray;
+  font-size: 20px;
+}
+.nav-list li a:hover {
+  background-color: red;
+}
+.movie {
+  width: 200px;
+  height: 200px;
+  border: solid;
+  position: relative;
+  margin: 40px;
+  padding: 40px;
+  text-align: center;
+}
+.movie a {
+  text-decoration: none;
+  color: red;
+}
+img {
+  width: 90px;
+  height: 90px;
+}
+.mov {
+  width: 600px;
+  height: 500px;
+  border: solid;
+  text-align: center;
+  position: relative;
+  padding: 150px;
+  background-color: rgb(154, 187, 209);
+  margin-left: 150px;
+}
+.mov a {
+  text-decoration: none;
+  color: red;
+  font-size: large;
+}
+p {
+  color: aliceblue;
+}
+header {
+  color: aliceblue;
+  position: relative;
+}
+footer {
+  color: aliceblue;
+  background-color: darkgray;
+  text-align: center;
+  position: relative;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+h2 {
+  color: aliceblue;
+  text-align: center;
+}
+.img1 {
+  width: 600px;
+  height: 550px;
+}
+.serch:hover {
+  height: 300px;
+  width: 300px;
+}
+.serch {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+}
+button {
+  background-color: red;
+}
+video {
+  width: 500px;
+  height: 500px;
+}
+.movv {
+  width: 20px;
+  height: 600px;
+  padding: 0px;
+}
